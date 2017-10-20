@@ -33,6 +33,6 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="org/apache/ibatis/submitted/emptycollection/Dao.xml" />
+        <mapper resource="org/apache/ibatis/submitted/emptycollection/dao.xml" />
     </mappers>
 </configuration>
